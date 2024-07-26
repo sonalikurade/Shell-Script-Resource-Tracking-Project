@@ -1,4 +1,9 @@
 # AWS Resource Tracker Project Using Shell Scripting
+### What does this project do?
+By running the AWS Resource Tracker script, users can quickly obtain a list of S3 buckets, EC2 instances, Lambda functions, and IAM users, EBS Volumes, Snapshots associated with their AWS account.
+
+This information can be valuable for various purposes, including auditing, inventory management, resource optimisation, and security assessment.
+
 This shell script is designed to report the AWS resource usage for the current AWS account. It retrieves information about the following AWS resources:
 
 - S3 buckets
